@@ -1,2 +1,4 @@
 # UEINF5129
-HIDS v1.0 based on JAVA(JAVAEE,Glassfish, Primefaces, Netbeans 8.2). NB: One branch per Task. For any question plz contact the Integration group.
+HIDS v1.0 based on JAVA(JAVAEE,Glassfish, Primefaces, Netbeans 8.2).
+NB: One branch per Task.
+For any question plz contact the Integration group.
