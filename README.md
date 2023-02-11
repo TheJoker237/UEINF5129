@@ -5,15 +5,15 @@ NB: One branch per Task.
 
 For any question plz contact the Integration group.
 
-Description des Branches
+#Description des Branches#
 
 
-main = Module d'intégration
+|-main = Module d'intégration
 
-ps = Module Politique de sécurité
+|-ps = Module Politique de sécurité
 
-evenements = création d'évènements
+|-evenements = création d'évènements
 
-analyse = Module d'analyse
+|-analyse = Module d'analyse
 
-alertes = Génération d'alertes
+|-alertes = Génération d'alertes
